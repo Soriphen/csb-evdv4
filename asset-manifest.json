@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "https://soriphen.github.io/csb-evdv4/static/css/main.ac7f28ab.chunk.css",
+    "main.js": "https://soriphen.github.io/csb-evdv4/static/js/main.0cd0b846.chunk.js",
+    "main.js.map": "https://soriphen.github.io/csb-evdv4/static/js/main.0cd0b846.chunk.js.map",
+    "runtime-main.js": "https://soriphen.github.io/csb-evdv4/static/js/runtime-main.c359be72.js",
+    "runtime-main.js.map": "https://soriphen.github.io/csb-evdv4/static/js/runtime-main.c359be72.js.map",
+    "static/js/2.71d78a6b.chunk.js": "https://soriphen.github.io/csb-evdv4/static/js/2.71d78a6b.chunk.js",
+    "static/js/2.71d78a6b.chunk.js.map": "https://soriphen.github.io/csb-evdv4/static/js/2.71d78a6b.chunk.js.map",
+    "index.html": "https://soriphen.github.io/csb-evdv4/index.html",
+    "static/css/main.ac7f28ab.chunk.css.map": "https://soriphen.github.io/csb-evdv4/static/css/main.ac7f28ab.chunk.css.map",
+    "static/js/2.71d78a6b.chunk.js.LICENSE.txt": "https://soriphen.github.io/csb-evdv4/static/js/2.71d78a6b.chunk.js.LICENSE.txt",
+    "static/media/bass1.6b9760b1.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bass1.6b9760b1.mp3",
+    "static/media/bd1.7bb5d5d5.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd1.7bb5d5d5.mp3",
+    "static/media/bd2.56bdda17.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd2.56bdda17.mp3",
+    "static/media/bd3.7422be23.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd3.7422be23.mp3",
+    "static/media/bd4.f9d7151b.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd4.f9d7151b.mp3",
+    "static/media/bd5.9678db00.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd5.9678db00.mp3",
+    "static/media/bd6.c342661d.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd6.c342661d.mp3",
+    "static/media/bdweird1.f5d4bd23.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bdweird1.f5d4bd23.mp3",
+    "static/media/bdweird2.fe3f8636.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bdweird2.fe3f8636.mp3",
+    "static/media/bdweird3.6538aebd.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bdweird3.6538aebd.mp3",
+    "static/media/bdweird4.e0dc87e6.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bdweird4.e0dc87e6.mp3",
+    "static/media/patt1.a98ea9f8.mp3": "https://soriphen.github.io/csb-evdv4/static/media/patt1.a98ea9f8.mp3",
+    "static/media/patt2.a9155d0f.mp3": "https://soriphen.github.io/csb-evdv4/static/media/patt2.a9155d0f.mp3",
+    "static/media/patt3.fa7e08b9.mp3": "https://soriphen.github.io/csb-evdv4/static/media/patt3.fa7e08b9.mp3",
+    "static/media/patt4.a0bb7d16.mp3": "https://soriphen.github.io/csb-evdv4/static/media/patt4.a0bb7d16.mp3",
+    "static/media/perc1.caa8f07f.mp3": "https://soriphen.github.io/csb-evdv4/static/media/perc1.caa8f07f.mp3",
+    "static/media/perc2.0400d03c.mp3": "https://soriphen.github.io/csb-evdv4/static/media/perc2.0400d03c.mp3",
+    "static/media/perc3.0607f8e2.mp3": "https://soriphen.github.io/csb-evdv4/static/media/perc3.0607f8e2.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c359be72.js",
+    "static/js/2.71d78a6b.chunk.js",
+    "static/css/main.ac7f28ab.chunk.css",
+    "static/js/main.0cd0b846.chunk.js"
+  ]
+}
