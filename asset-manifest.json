@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://soriphen.github.io/csb-evdv4/static/css/main.b7bf90fb.chunk.css",
-    "main.js": "https://soriphen.github.io/csb-evdv4/static/js/main.c1e582bf.chunk.js",
-    "main.js.map": "https://soriphen.github.io/csb-evdv4/static/js/main.c1e582bf.chunk.js.map",
+    "main.js": "https://soriphen.github.io/csb-evdv4/static/js/main.0524f978.chunk.js",
+    "main.js.map": "https://soriphen.github.io/csb-evdv4/static/js/main.0524f978.chunk.js.map",
     "runtime-main.js": "https://soriphen.github.io/csb-evdv4/static/js/runtime-main.c359be72.js",
     "runtime-main.js.map": "https://soriphen.github.io/csb-evdv4/static/js/runtime-main.c359be72.js.map",
-    "static/js/2.1c18f27b.chunk.js": "https://soriphen.github.io/csb-evdv4/static/js/2.1c18f27b.chunk.js",
-    "static/js/2.1c18f27b.chunk.js.map": "https://soriphen.github.io/csb-evdv4/static/js/2.1c18f27b.chunk.js.map",
+    "static/js/2.a11ba6c1.chunk.js": "https://soriphen.github.io/csb-evdv4/static/js/2.a11ba6c1.chunk.js",
+    "static/js/2.a11ba6c1.chunk.js.map": "https://soriphen.github.io/csb-evdv4/static/js/2.a11ba6c1.chunk.js.map",
     "index.html": "https://soriphen.github.io/csb-evdv4/index.html",
     "static/css/main.b7bf90fb.chunk.css.map": "https://soriphen.github.io/csb-evdv4/static/css/main.b7bf90fb.chunk.css.map",
-    "static/js/2.1c18f27b.chunk.js.LICENSE.txt": "https://soriphen.github.io/csb-evdv4/static/js/2.1c18f27b.chunk.js.LICENSE.txt",
+    "static/js/2.a11ba6c1.chunk.js.LICENSE.txt": "https://soriphen.github.io/csb-evdv4/static/js/2.a11ba6c1.chunk.js.LICENSE.txt",
     "static/media/bass1.6b9760b1.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bass1.6b9760b1.mp3",
     "static/media/bd1.7bb5d5d5.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd1.7bb5d5d5.mp3",
     "static/media/bd2.56bdda17.mp3": "https://soriphen.github.io/csb-evdv4/static/media/bd2.56bdda17.mp3",
@@ -31,8 +31,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c359be72.js",
-    "static/js/2.1c18f27b.chunk.js",
+    "static/js/2.a11ba6c1.chunk.js",
     "static/css/main.b7bf90fb.chunk.css",
-    "static/js/main.c1e582bf.chunk.js"
+    "static/js/main.0524f978.chunk.js"
   ]
 }
